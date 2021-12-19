@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[225],{VzRj:function(e,s,t){"use strict";t.r(s);var i=t("ezF+"),c=(t("ERkP"),t("MWbm")),n=t("VPAj"),a=t("fs1G");const o=i.g({component:c.a,createProps:({entry:{content:{accessibilityOwns:e},entryId:s}})=>({accessibilityRole:"list",accessibilityOwns:e}),isFocusable:Object(n.a)(!1),getBehavioralEventContextOverride:a.a,shouldDisplayBorder:Object(n.a)(!1)});s.default=o}}]);
+//# sourceMappingURL=https://ton.local.twitter.com/responsive-web-internal/sourcemaps/client-web/ondemand.VerticalGridListHandler.5cec8d25.js.map
